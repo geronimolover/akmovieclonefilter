@@ -47,7 +47,7 @@ async def start(bot, update):
         if (file_id or file_type) == None:
             return
         
-        caption = "Here is your movie"
+        caption = "Here is your movie file"
         
         if file_type == "document":
         
