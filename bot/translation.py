@@ -16,7 +16,7 @@ Sorry I cant help you😔
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Mde for</b> : <b><a href="https://t.me/all_super_movies">👤AK Movies</a></b>
+<b>>➥👨‍💼Made for</b> : <b><a href="https://t.me/all_super_movies">👤AK Movies</a></b>
 
 <b>➥ 📡Channel</b> : <b><a href="https://t.me/free_music123">The music collection</a></b>
 
