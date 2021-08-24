@@ -1639,15 +1639,15 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/geronimo1234'),
+            InlineKeyboardButton('👨‍💼Creator', url='https://t.me/geronimo1234'),
             InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://telegra.ph/file/21e06a011217f7308c3c9.jpg')
         ],[
             InlineKeyboardButton('⚙️𝙷𝚎𝚕𝚙⚙️', callback_data="help")
         ],[
-            InlineKeyboardButton('🗣️𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='https://t.me/all_super_movies'),
-            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜🤖', url='https://t.me/free_music123')
+            InlineKeyboardButton('🧿Group🧿', url='https://t.me/all_super_movies'),
+            InlineKeyboardButton('📡Channel📡', url='https://t.me/free_music123')
         ],[
-            InlineKeyboardButton('🖥️ 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚅𝚒𝚍𝚎𝚘 🖥️', url='https://telegra.ph/file/21e06a011217f7308c3c9.jpg')
+            InlineKeyboardButton('🎵Song Group🎵', url='https://t.me/song_requestgroup')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
