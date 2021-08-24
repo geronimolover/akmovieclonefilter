@@ -68,7 +68,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Other Group', url="https://t.me/song_requestgroup"
+                                    '✅Other Group✅', url="https://t.me/song_requestgroup"
                                 )
                         ]
                     ]
@@ -123,9 +123,9 @@ async def start(bot, update):
         InlineKeyboardButton('Help 🤔', callback_data="help")
     ],[
         InlineKeyboardButton('🗣️Group', url=f'{MT_GROUP}'),
-        InlineKeyboardButton('Channel🔊', url=f'{MT_CHANNEL}')
+        InlineKeyboardButton('🔊Channel', url=f'{MT_CHANNEL}')
     ],[
-        InlineKeyboardButton('Song Group', url='https://t.me/song_requestgroup')
+        InlineKeyboardButton('🎼Song Group🎼', url='https://t.me/song_requestgroup')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
